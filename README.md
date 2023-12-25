@@ -17,3 +17,5 @@ streamlit run dashboard.py
 ## Link steamlit app
 
 https://lettylatifah-ecommerce-analysis-project.streamlit.app/
+
+## Dashboard Preview
