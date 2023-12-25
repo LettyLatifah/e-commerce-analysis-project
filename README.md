@@ -19,3 +19,5 @@ streamlit run dashboard.py
 https://lettylatifah-ecommerce-analysis-project.streamlit.app/
 
 ## Dashboard Preview
+
+![Screenshot of E-Commerce Dashboard](https://raw.githubusercontent.com/LettyLatifah/e-commerce-analysis-project/main/img/streamlit-dashboard.png)
