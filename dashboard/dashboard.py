@@ -28,7 +28,7 @@ def create_product_review_df(df):
   return product_review_df
 
 # memproses data yang telah dibersihkan
-all_df = pd.read_csv("all_data.csv")
+all_df = pd.read_csv("https://raw.githubusercontent.com/LettyLatifah/e-commerce-analysis-project/main/dashboard/all_data.csv")
 
 datetime_columns = [
   "review_creation_date",
