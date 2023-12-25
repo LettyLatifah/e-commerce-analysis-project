@@ -49,7 +49,7 @@ max_date = all_df["review_creation_date"].max()
 # menyiapkan sidebar
 with st.sidebar:
   # menambahkan logo olist
-  st.image("olist.png")
+  st.image("https://raw.githubusercontent.com/LettyLatifah/e-commerce-analysis-project/main/dashboard/olist.png")
 
   # mengambil start_date dan end_date dari input
   start_date, end_date = st.date_input(
